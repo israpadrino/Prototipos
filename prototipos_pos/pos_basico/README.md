@@ -17,3 +17,6 @@ No se requiere inicio de sesión. Usuarios precargados: Administrador (PIN 1234)
 
 ## Restablecer
 Usa el botón **Restablecer demo** para volver a los datos iniciales.
+
+## Gestión de catálogo
+Las altas y bajas de productos quedan reservadas para soporte. El usuario del negocio puede trabajar con los productos existentes y ajustar su operación e inventario.

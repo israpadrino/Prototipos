@@ -32,3 +32,10 @@ Todos los datos son ficticios y se guardan únicamente en el `localStorage` del 
 ## Tecnología de esta versión
 
 HTML5, CSS3 y JavaScript moderno sin dependencias externas. La decisión de no incluir un proceso de compilación permite transportar la colección en USB y ejecutarla rápidamente en PC, monitor touch, tablet o celular. La estructura está separada por componentes de interfaz y puede migrarse a React cuando el producto pase de prototipo comercial a implementación real.
+
+## Ajustes comerciales v2
+- El alta y baja de productos queda reservada para soporte en los tres POS.
+- Web Ventas y Web Plus bloquean fechas pasadas.
+- Pedidos y cotizaciones tienen horario máximo de 20:00 h.
+- Para pedidos del mismo día, la hora seleccionada debe ser posterior a la hora actual.
+- Se actualizó la caché PWA para evitar que GitHub Pages conserve archivos antiguos.
